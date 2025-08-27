@@ -22,6 +22,8 @@ User can manage his/her profile also.
 Can signout also from the Scavies and tickets will be saved if login with same account.
 
 
+Future- mail confirmation
+
 Thanks
 Fahaam Khan
 fahaam309.be22@chitkara.edu.in
