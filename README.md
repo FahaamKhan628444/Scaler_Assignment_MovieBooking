@@ -2,6 +2,7 @@ Scaler + Movies= Scavies (Movie Ticket Booking System)
 
 Frontend- React and Tailwind css
 Backend- nodejs and Expressjs
+.gitignore contains node modules of client as well as server also, and also contains .env which has the configuration files.
 
 Flow of project:
 
